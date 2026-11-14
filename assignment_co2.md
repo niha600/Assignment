@@ -9,7 +9,7 @@
 **COURSE CODE:** CSA0820  
 **SUBJECT NAME:** PYTHON PROGRAMMING  
 **SLOT:** D  
-**GITHUB REPOSITORY:** https://github.com/niha600/Assignment  
+**GITHUB REPOSITORY:** [https://github.com/niha600/Assignment  ](https://github.com/niha600/Assignment/blob/main/assignment_co2.md)
 
 ---
 
